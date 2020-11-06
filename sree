@@ -1,0 +1,13 @@
+git branch 
+git checkout branch name
+git merge branch name
+git cherry-pick cid
+touch 
+git push origin branch name
+git push path of central branch name
+git branch -d branch name
+git branch -D branch name
+git log
+git push origin -d branch name
+git diff branchname branch name
+
